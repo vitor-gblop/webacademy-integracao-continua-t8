@@ -27,4 +27,4 @@ jobs:
         uses: webacademyufac/deploy-action@main
         with:
           app-id: ${{secrets.DEPLOY_APP_ID}}
-          api-key: ${{secrets.DEPLOY_API-kEY}}
+          api-key: ${{secrets.DEPLOY_API_kEY}}
